@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>LowestFoodAccessWILatLon</name>
+  <Placemark>
+      <Point><coordinates>-91.124097,45.458975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-88.806738,45.625108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-90.80852,44.301685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-90.680259,46.206232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-89.067113,45.272812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-88.708915,45.015436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-89.081772,42.665442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-91.198317,46.471024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-88.040957,45.383498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-88.546771,42.671151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-91.905916,46.439604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-90.12184,43.953238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-88.042413,42.729386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-90.491587,45.205711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>-90.455708,43.366253</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
