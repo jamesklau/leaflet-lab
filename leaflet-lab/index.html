@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title></title>
+		<title>Mega Cities!</title>
 
 		<!--put your external stylesheet links here-->
 		<link rel="stylesheet" href="css/style.css">
@@ -19,7 +19,6 @@
 		<![endif]-->
 	</head>
 
-    
 	<body>
 		<!--put your initial page content here-->
 		<!--you can also use this space for internal scripts or stylesheets;
@@ -31,32 +30,21 @@
         <div id = "map"></div>
         <div id="panel"></div>
         
+        <style>#mapid { height: 180px; } </style> 
         <style>#map {
             height: 400px;
             width: 80%;
             display: inline-block;
-        } </style> 
+        }</style>
         <style>#panel {
-            width: 26%;
+            width: 16%;
             padding: 20px;
             display: inline-block;
             vertical-align: top;
-            text-align: center;
-            line-height: 42px;
-        }
+        }</style>
 
-        .range-slider {
-            width: 50%;
-        }
-            
-        #forward {
-            float: right;
-        }
 
-        #reverse {
-            float: left;
-        }
-         </style>
+        
         
         <script type="text/javascript" src="lib/jquery-3.3.1.js"></script>
 		<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
