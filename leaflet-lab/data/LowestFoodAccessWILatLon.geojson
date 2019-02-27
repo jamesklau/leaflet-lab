@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Rusk",
+        "LACCESS_POP10": 3081.039798,
+        "LACCESS_POP15": 4942.10112,
+        "PCH_LACCESS_POP_10_15": 60.40367679,
+        "PCT_LACCESS_POP10": 20.881327,
+        "PCT_LACCESS_POP15": 33.49441626,
+        "LACCESS_LOWI10": 1323.616771,
+        "LACCESS_LOWI15": 2122.19893,
+        "PCH_LACCESS_LOWI_10_15": 60.33333641,
+        "PCT_LACCESS_LOWI10": 8.970632132,
+        "PCT_LACCESS_LOWI15": 14.38291379,
+        "name": "Rusk, WI",
+        "desc": "Rusk County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.124097,
+          45.458975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Forest",
+        "LACCESS_POP10": 3501.951663,
+        "LACCESS_POP15": 3495.854518,
+        "PCH_LACCESS_POP_10_15": -0.174107062,
+        "PCT_LACCESS_POP10": 37.63920532,
+        "PCT_LACCESS_POP15": 37.57367281,
+        "LACCESS_LOWI10": 1613.547605,
+        "LACCESS_LOWI15": 1289.514788,
+        "PCH_LACCESS_LOWI_10_15": -20.08201154,
+        "PCT_LACCESS_LOWI10": 17.3425151,
+        "PCT_LACCESS_LOWI15": 13.85978921,
+        "name": "Forest, WI",
+        "desc": "Forest County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.806738,
+          45.625108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Jackson",
+        "LACCESS_POP10": 7271.800914,
+        "LACCESS_POP15": 6749.61837,
+        "PCH_LACCESS_POP_10_15": -7.180924645,
+        "PCT_LACCESS_POP10": 35.56066758,
+        "PCT_LACCESS_POP15": 33.00708284,
+        "LACCESS_LOWI10": 2897.890712,
+        "LACCESS_LOWI15": 2667.56473,
+        "PCH_LACCESS_LOWI_10_15": -7.948056175,
+        "PCT_LACCESS_LOWI10": 14.1713077,
+        "PCT_LACCESS_LOWI15": 13.0449642,
+        "name": "Jackson, WI",
+        "desc": "Jackson County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.80852,
+          44.301685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Ashland",
+        "LACCESS_POP10": 5073.500808,
+        "LACCESS_POP15": 4576.95917,
+        "PCH_LACCESS_POP_10_15": -9.786962818,
+        "PCT_LACCESS_POP10": 31.40125523,
+        "PCT_LACCESS_POP15": 28.32802606,
+        "LACCESS_LOWI10": 2073.988936,
+        "LACCESS_LOWI15": 2065.11578,
+        "PCH_LACCESS_LOWI_10_15": -0.427830462,
+        "PCT_LACCESS_LOWI10": 12.83647296,
+        "PCT_LACCESS_LOWI15": 12.78155462,
+        "name": "Ashland, WI",
+        "desc": "Ashland County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.680259,
+          46.206232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Langlade",
+        "LACCESS_POP10": 6022.820783,
+        "LACCESS_POP15": 6023.10422,
+        "PCH_LACCESS_POP_10_15": 0.004706057,
+        "PCT_LACCESS_POP10": 30.14877501,
+        "PCT_LACCESS_POP15": 30.15019382,
+        "LACCESS_LOWI10": 2071.482102,
+        "LACCESS_LOWI15": 2175.596301,
+        "PCH_LACCESS_LOWI_10_15": 5.026072831,
+        "PCT_LACCESS_LOWI10": 10.36933525,
+        "PCT_LACCESS_LOWI15": 10.89050559,
+        "name": "Langlade, WI",
+        "desc": "Langlade County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.067113,
+          45.272812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Menominee",
+        "LACCESS_POP10": 1255.786095,
+        "LACCESS_POP15": 928.3146917,
+        "PCH_LACCESS_POP_10_15": -26.07700502,
+        "PCT_LACCESS_POP10": 29.67358447,
+        "PCT_LACCESS_POP15": 21.93560236,
+        "LACCESS_LOWI10": 778.896897,
+        "LACCESS_LOWI15": 458.4504911,
+        "PCH_LACCESS_LOWI_10_15": -41.14105566,
+        "PCT_LACCESS_LOWI10": 18.40493613,
+        "PCT_LACCESS_LOWI15": 10.83295111,
+        "name": "Menominee, WI",
+        "desc": "Menominee County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.708915,
+          45.015436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Rock",
+        "LACCESS_POP10": 49550.11221,
+        "LACCESS_POP15": 46350.80102,
+        "PCH_LACCESS_POP_10_15": -6.456718359,
+        "PCT_LACCESS_POP10": 30.90488565,
+        "PCT_LACCESS_POP15": 28.90944422,
+        "LACCESS_LOWI10": 14672.41277,
+        "LACCESS_LOWI15": 16925.56268,
+        "PCH_LACCESS_LOWI_10_15": 15.35636941,
+        "PCT_LACCESS_LOWI10": 9.151326175,
+        "PCT_LACCESS_LOWI15": 10.55663763,
+        "name": "Rock, WI",
+        "desc": "Rock County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.081772,
+          42.665442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Bayfield",
+        "LACCESS_POP10": 3779.529282,
+        "LACCESS_POP15": 4613.077028,
+        "PCH_LACCESS_POP_10_15": 22.05427405,
+        "PCT_LACCESS_POP10": 25.17336674,
+        "PCT_LACCESS_POP15": 30.72517003,
+        "LACCESS_LOWI10": 1185.020457,
+        "LACCESS_LOWI15": 1567.631785,
+        "PCH_LACCESS_LOWI_10_15": 32.28731843,
+        "PCT_LACCESS_LOWI10": 7.892769792,
+        "PCT_LACCESS_LOWI15": 10.44113351,
+        "name": "Bayfield, WI",
+        "desc": "Bayfield County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.198317,
+          46.471024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Marinette",
+        "LACCESS_POP10": 7521.025802,
+        "LACCESS_POP15": 10964.16149,
+        "PCH_LACCESS_POP_10_15": 45.78013395,
+        "PCT_LACCESS_POP10": 18.01486455,
+        "PCT_LACCESS_POP15": 26.26209368,
+        "LACCESS_LOWI10": 3383.895947,
+        "LACCESS_LOWI15": 4255.357576,
+        "PCH_LACCESS_LOWI_10_15": 25.75320408,
+        "PCT_LACCESS_LOWI10": 8.105334132,
+        "PCT_LACCESS_LOWI15": 10.19271737,
+        "name": "Marinette, WI",
+        "desc": "Marinette County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.040957,
+          45.383498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Walworth",
+        "LACCESS_POP10": 30650.46372,
+        "LACCESS_POP15": 28471.5557,
+        "PCH_LACCESS_POP_10_15": -7.108890891,
+        "PCT_LACCESS_POP10": 29.98245463,
+        "PCT_LACCESS_POP15": 27.85103465,
+        "LACCESS_LOWI10": 8312.155499,
+        "LACCESS_LOWI15": 8704.708249,
+        "PCH_LACCESS_LOWI_10_15": 4.722634819,
+        "PCT_LACCESS_LOWI10": 8.130996889,
+        "PCT_LACCESS_LOWI15": 8.514994179,
+        "name": "Walworth, WI",
+        "desc": "Walworth County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.546771,
+          42.671151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Douglas",
+        "LACCESS_POP10": 11337.56289,
+        "LACCESS_POP15": 13984.9113,
+        "PCH_LACCESS_POP_10_15": 23.35024233,
+        "PCT_LACCESS_POP10": 25.6744104,
+        "PCT_LACCESS_POP15": 31.66944744,
+        "LACCESS_LOWI10": 2838.127866,
+        "LACCESS_LOWI15": 3747.190378,
+        "PCH_LACCESS_LOWI_10_15": 32.03035786,
+        "PCT_LACCESS_LOWI10": 6.427065527,
+        "PCT_LACCESS_LOWI15": 8.485677616,
+        "name": "Douglas, WI",
+        "desc": "Douglas County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.905916,
+          46.439604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Juneau",
+        "LACCESS_POP10": 3869.332736,
+        "LACCESS_POP15": 5657.277095,
+        "PCH_LACCESS_POP_10_15": 46.20807982,
+        "PCT_LACCESS_POP10": 14.5114489,
+        "PCT_LACCESS_POP15": 21.2169108,
+        "LACCESS_LOWI10": 1446.808536,
+        "LACCESS_LOWI15": 2246.429337,
+        "PCH_LACCESS_LOWI_10_15": 55.26790733,
+        "PCT_LACCESS_LOWI10": 5.426074618,
+        "PCT_LACCESS_LOWI15": 8.424952509,
+        "name": "Juneau, WI",
+        "desc": "Juneau County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12184,
+          43.953238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Racine",
+        "LACCESS_POP10": 57826.08817,
+        "LACCESS_POP15": 59628.66713,
+        "PCH_LACCESS_POP_10_15": 3.117241749,
+        "PCT_LACCESS_POP10": 29.5924876,
+        "PCT_LACCESS_POP15": 30.51495698,
+        "LACCESS_LOWI10": 14959.65841,
+        "LACCESS_LOWI15": 16268.44886,
+        "PCH_LACCESS_LOWI_10_15": 8.748799031,
+        "PCT_LACCESS_LOWI10": 7.655601824,
+        "PCT_LACCESS_LOWI15": 8.325375042,
+        "name": "Racine, WI",
+        "desc": "Racine County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.042413,
+          42.729386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Taylor",
+        "LACCESS_POP10": 4248.490825,
+        "LACCESS_POP15": 4224.85474,
+        "PCH_LACCESS_POP_10_15": -0.556340728,
+        "PCT_LACCESS_POP10": 20.5350226,
+        "PCT_LACCESS_POP15": 20.4207779,
+        "LACCESS_LOWI10": 1447.576781,
+        "LACCESS_LOWI15": 1655.235659,
+        "PCH_LACCESS_LOWI_10_15": 14.3452755,
+        "PCT_LACCESS_LOWI10": 6.996842677,
+        "PCT_LACCESS_LOWI15": 8.000559035,
+        "name": "Taylor, WI",
+        "desc": "Taylor County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.491587,
+          45.205711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "WI",
+        "County": "Richland",
+        "LACCESS_POP10": 3698.591131,
+        "LACCESS_POP15": 3677.432129,
+        "PCH_LACCESS_POP_10_15": -0.572082729,
+        "PCT_LACCESS_POP10": 20.52378409,
+        "PCT_LACCESS_POP15": 20.40637106,
+        "LACCESS_LOWI10": 1378.725899,
+        "LACCESS_LOWI15": 1390.13554,
+        "PCH_LACCESS_LOWI_10_15": 0.827549601,
+        "PCT_LACCESS_LOWI10": 7.650662557,
+        "PCT_LACCESS_LOWI15": 7.713975584,
+        "name": "Richland, WI",
+        "desc": "Richland County, WI, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.455708,
+          43.366253
+        ]
+      }
+    }
+  ]
+}
