@@ -210,6 +210,7 @@ function getData(map){
             
             //call function to create proportional symbols
             createPropSymbols(response, map, attributes);
+            //calls sequence function for reverse and forward bottons
             createSequenceControls(map, attributes);
         }
     });
