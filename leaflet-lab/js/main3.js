@@ -199,10 +199,10 @@ function createPropSymbols(data, map, attributes){
        
         //5th operator
         //filters by population size 
-        filter: function(feature, latlng) {
-            //console.log(feature.properties);
-            return feature.properties['Pop_2005']>16;
-        }
+        //filter: function(feature, latlng) {
+        //    //console.log(feature.properties);
+        //    return feature.properties['Pop_2005']>16;
+        //}
     }).addTo(map);
 };
 
